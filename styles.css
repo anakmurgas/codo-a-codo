@@ -19,6 +19,14 @@
 .navbar-brand{
     padding-left: 30px;
 }
+
+/*body*/
+.contentbody {
+    min-height: 728px;
+    display: flex;
+    align-items: center;
+}
+
 /* footer */
 footer{
     background-color: black;
